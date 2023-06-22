@@ -1,2 +1,2 @@
 # 42Ddukddak
-To make meet up easy
+To make meeting easy
